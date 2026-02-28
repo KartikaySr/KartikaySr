@@ -1,103 +1,69 @@
-<!-- HEADER -->
-
-<h1 align="center">
-  Hi, I'm <span style="color:#e87030;">Kartikay Srivastava</span>
-</h1>
-
-<h3 align="center">
-AI/ML Engineer • Full-Stack Developer • Systems Thinker
-</h3>
+<h1 align="center">Kartikay Srivastava</h1>
 
 <p align="center">
-Building intelligent, scalable systems that merge data, automation, and business strategy.
+AI / ML Engineer • Systems Architect • Data-Driven Problem Solver
+</p>
+
+<p align="center">
+<a href="https://github.com/KartikaySr">GitHub</a> • 
+<a href="https://www.linkedin.com/in/kartikaymg57/">LinkedIn</a> • 
+<a href="mailto:kartikaymg57@gmail.com">Email</a>
 </p>
 
 ---
 
-<!-- SOCIALS -->
+## Profile
+
+Computer Science (AIML) undergraduate focused on machine learning systems, automation, and scalable backend architecture.  
+Experience building data-driven workflows, simulation models, and analytical tooling for operational optimization.
+
+Interested in high-performance engineering environments where precision and systems thinking matter.
+
+---
+
+## Experience
+
+**Operations Analyst Intern — Fracht Kenya Ltd.**  
+Jul 2025 – Aug 2025  
+- Conducted structured market analysis contributing to measurable lead growth  
+- Developed Python automation scripts reducing manual workflow overhead  
+
+**Machine Learning Engineer Intern — Samatrix Consulting Pvt. Ltd.**  
+Jun 2025 – Jul 2025  
+- Built automated ML validation framework (5,000+ data points processed)  
+- Designed discrete-event simulation for service optimization  
+
+**Operations Lead — JECRC Incubation Centre**  
+Aug 2023 – Jul 2024  
+- Coordinated large-scale summits and startup training programs  
+- Managed structured operations for 1,500+ participants  
+
+---
+
+## Selected Work
+
+**Call Centre Simulation Engine**  
+Discrete-event simulation built in Python to model queue systems and staffing efficiency.
+
+**Statistical A/B Testing Framework**  
+Two-proportion hypothesis testing implementation for decision-driven experimentation.
+
+---
+
+## Technical Stack
+
+Python  
+Java  
+C++  
+SQL  
+Machine Learning  
+Data Structures & Algorithms  
+Systems Design  
+
+---
+
+## GitHub
 
 <p align="center">
-<a href="https://github.com/KartikaySr">
-<img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/kartikaymg57/">
-<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:kartikaymg57@gmail.com">
-<img src="https://img.shields.io/badge/Email-e87030?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,nextjs,mysql,docker,tensorflow,pandas,git,github,gcp" />
-</p>
-
----
-
-## 🧠 Professional Experience
-
-### 🏢 Fracht Kenya Ltd — Operations Analyst Intern  
-**Jul 2025 – Aug 2025**
-
-- Increased qualified leads by **15%** through market analysis  
-- Automated logistics workflows (Python), reducing manual work by **20%**
-
----
-
-### 🧪 Samatrix Consulting — ML Engineer Intern  
-**Jun 2025 – Jul 2025**
-
-- Built automated ML testing system (5,000+ datapoints processed)  
-- Developed discrete-event simulation model for staffing optimization
-
----
-
-### 🚀 JECRC Incubation Centre — Operations Lead  
-**Aug 2023 – Jul 2024**
-
-- Managed 1,500+ attendee summits  
-- Led startup training for 2,000+ students  
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Call Centre Simulator  
-Python-based discrete-event simulation modeling 10,000+ interactions to optimize staffing efficiency.
-
-**Tech:** Python, NumPy, Pandas
-
----
-
-### 🔹 Statistical A/B Testing Suite  
-Two-Proportion Z-Test based framework for validating conversion improvements.
-
-**Tech:** Python, SciPy, Statistics
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KartikaySr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikaySr&theme=tokyonight&hide_border=true&background=0a0a0a" height="170"/>
-</p>
-
----
-
-## 💡 Current Focus
-
-- Advanced DSA mastery  
-- ML systems engineering  
-- Building enterprise-grade automation tools  
-- Preparing for high-performance tech + finance roles  
-
----
-
-<p align="center">
-  <i>"Precision. Systems. Scale."</i>
+<img src="https://github-readme-stats.vercel.app/api?username=KartikaySr&show_icons=false&hide_border=true" height="150"/>
 </p>

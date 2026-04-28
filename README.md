@@ -1,7 +1,7 @@
 <h1 align="center">Kartikay Srivastava</h1>
 
 <p align="center">
-<b>AI/ML Engineer • Systems Architect • Data Infrastructure Builder</b>
+<b>AI/ML Engineer • Backend Systems • Data Infrastructure</b>
 </p>
 
 <p align="center">
@@ -12,93 +12,93 @@
 
 ---
 
-## 🚀 Profile
+## Profile
 
-Computer Science (AI & ML) undergraduate focused on building scalable systems, real-time applications, and data-driven software.
+Computer Science (AI & ML) undergraduate focused on building scalable backend systems, real-time applications, and data-driven software.
 
-I work at the intersection of:
-- Backend Engineering
-- Machine Learning Systems
-- Data Engineering & ETL
-- Real-Time Architectures
+My work focuses on:
+- Backend and distributed systems engineering  
+- Machine learning system design  
+- Data pipelines and ETL workflows  
+- Real-time architectures using WebSockets  
 
-I aim to build systems that are not just functional — but efficient, reliable, and production-ready.
+I approach projects with an emphasis on system design, performance, and reliability.
 
 ---
 
-## 🧠 Core Focus Areas
+## Core Areas
 
 - Machine Learning Systems  
-- Backend & Distributed Systems  
-- Data Engineering & ETL Pipelines  
-- Real-Time Systems (WebSockets, APIs)  
-- Simulation & Optimization  
+- Backend and Distributed Systems  
+- Data Engineering and ETL Pipelines  
+- Real-Time Systems (APIs, WebSockets)  
+- Simulation and Optimization  
 
 ---
 
-## 💼 Experience
+## Experience
 
-### **Machine Learning Engineer Intern**  
-**Samatrix Consulting Pvt. Ltd.** | Remote  
-*Jun 2025 – Jul 2025*
+### Machine Learning Engineer Intern  
+Samatrix Consulting Pvt. Ltd. | Remote  
+Jun 2025 – Jul 2025  
 
-- Built a multi-threaded call center simulation system to model real-world queue dynamics  
+- Built a multi-threaded call center simulation system to model queue dynamics  
 - Developed automated validation pipelines processing 5,000+ daily data points  
 - Ensured ~99% data integrity in distributed execution environments  
 
 ---
 
-### **Commercial Apprentice (Operations/Data)**  
-**Fracht Kenya Ltd.** | Nairobi, Kenya  
-*Jul 2025 – Aug 2025*
+### Commercial Apprentice (Operations/Data)  
+Fracht Kenya Ltd. | Nairobi, Kenya  
+Jul 2025 – Aug 2025  
 
-- Designed ETL workflow concepts to automate logistics data pipelines  
+- Designed ETL workflow concepts for logistics data automation  
 - Identified inefficiencies in legacy systems and proposed optimization strategies  
 - Contributed to data-driven operational improvements  
 
 ---
 
-### **Technical Operations Lead**  
-**E-Cell, IIT Bombay & JECRC** | Jaipur, India  
-*Aug 2023 – Dec 2024*
+### Technical Operations Lead  
+E-Cell, IIT Bombay & JECRC | Jaipur, India  
+Aug 2023 – Dec 2024  
 
-- Led operations for events with 1500+ participants  
-- Built internal tracking systems improving visibility by 30%  
-- Coordinated between technical teams and stakeholders  
-
----
-
-## 🏗️ Featured Projects
-
-### 🚖 Full-Stack Ride-Hailing Platform  
-**Tech:** Next.js, Node.js, Express, WebSockets  
-
-- Built a scalable ride-hailing system with server-side rendering  
-- Implemented real-time location tracking using WebSockets  
-- Designed backend APIs for high-concurrency request handling  
+- Led technical operations for events with 1,500+ participants  
+- Built internal tracking systems improving operational visibility by 30%  
+- Coordinated across technical teams and stakeholders  
 
 ---
 
-### 📊 Log Analyzer (AI-Powered)  
-**Tech:** Go, OpenAI API  
+## Selected Projects
 
-- Built a multi-format log parsing system (JSON, Nginx, standard logs)  
-- Designed error pattern grouping engine for anomaly detection  
-- Integrated LLM-based insights for identifying system issues  
+### Full-Stack Ride-Hailing Platform  
+Tech: Next.js, Node.js, Express, WebSockets  
+
+- Built a real-time ride booking system with bidirectional communication  
+- Implemented WebSocket-based state synchronization between clients  
+- Designed backend APIs to handle concurrent ride requests  
 
 ---
 
-### 🔄 Logi-AI V1 — Data Pipeline System  
-**Tech:** Python, Pandas, NumPy  
+### Log Analyzer (AI-Powered)  
+Tech: Go, OpenAI API  
 
-- Built an ETL pipeline processing ~48K rows of operational data daily  
-- Designed robust validation and error-handling mechanisms  
+- Developed a log parsing system supporting multiple formats  
+- Built an error pattern grouping engine for anomaly detection  
+- Integrated LLM-based insights for system-level diagnostics  
+
+---
+
+### Logi-AI V1 — Data Pipeline System  
+Tech: Python, Pandas, NumPy  
+
+- Built an ETL pipeline processing ~48K rows of operational data  
+- Designed validation and error-handling mechanisms  
 - Reduced downstream processing time by 35%  
 
 ---
 
-### 📈 Statistical A/B Testing Framework  
-**Tech:** Python, SciPy  
+### Statistical A/B Testing Framework  
+Tech: Python, SciPy  
 
 - Built a hypothesis testing system for ~9.5K user samples  
 - Achieved 95% statistical confidence in decision-making  
@@ -106,35 +106,35 @@ I aim to build systems that are not just functional — but efficient, reliable,
 
 ---
 
-### 📞 Call Center Simulation Engine  
-**Tech:** Python  
+### Call Center Simulation Engine  
+Tech: Python  
 
 - Designed a discrete-event simulation for queue optimization  
 - Modeled staffing efficiency under varying workloads  
-- Enabled data-driven decision-making for operations  
+- Enabled data-driven operational decisions  
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 ### Languages  
-`Python` `JavaScript` `Java` `C++` `SQL`
+Python • JavaScript • Java • C++ • SQL  
 
 ### Frontend  
-`React.js` `Next.js` `Tailwind CSS`
+React.js • Next.js • Tailwind CSS  
 
 ### Backend  
-`Node.js` `Express.js` `REST APIs` `WebSockets`
+Node.js • Express.js • REST APIs • WebSockets  
 
-### Data & ML  
-`Pandas` `NumPy` `Statistical Modeling` `ETL Pipelines`
+### Data and Machine Learning  
+Pandas • NumPy • Statistical Modeling • ETL Pipelines  
 
-### Tools & Infrastructure  
-`Docker` `Git` `Linux` `Google Cloud`
+### Tools and Infrastructure  
+Docker • Git • Linux • Google Cloud  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KartikaySr&show_icons=true&hide_border=true" height="150"/>
@@ -143,35 +143,30 @@ I aim to build systems that are not just functional — but efficient, reliable,
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- Strengthening Data Structures & Algorithms  
-- Building production-level ML systems  
+- Strengthening Data Structures and Algorithms  
+- Building production-grade machine learning systems  
 - Scaling backend systems and APIs  
-- Developing high-impact portfolio projects  
+- Developing high-impact engineering projects  
 
 ---
 
-## 📌 Philosophy
+## Philosophy
 
-> Build systems that scale.  
-> Understand systems that fail.  
-> Optimize systems that matter.  
+Build systems that scale.  
+Understand systems that fail.  
+Optimize systems that matter.  
 
 ---
 
-## 🤝 Let’s Connect
+## Contact
 
-I’m always open to:
-- Internships (ML / Backend / Data Engineering)
-- Collaborations on impactful projects
-- Technical discussions and learning opportunities
-
-📩 **Email:** kartikaymg57@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/kartikaymg57/
+Email: kartikaymg57@gmail.com  
+LinkedIn: https://www.linkedin.com/in/kartikaymg57/  
 
 ---
 
 <p align="center">
-<i>Focused on becoming a top-tier engineer through consistency, systems thinking, and real-world execution.</i>
+Focused on developing strong system design skills and building real-world engineering solutions.
 </p>

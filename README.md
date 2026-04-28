@@ -16,13 +16,13 @@
 
 Computer Science (AI & ML) undergraduate focused on building scalable backend systems, real-time applications, and data-driven software.
 
-My work focuses on:
+Work centered on:
 - Backend and distributed systems engineering  
 - Machine learning system design  
 - Data pipelines and ETL workflows  
 - Real-time architectures using WebSockets  
 
-I approach projects with an emphasis on system design, performance, and reliability.
+Approach driven by system design, performance optimization, and reliability.
 
 ---
 
@@ -42,9 +42,9 @@ I approach projects with an emphasis on system design, performance, and reliabil
 Samatrix Consulting Pvt. Ltd. | Remote  
 Jun 2025 – Jul 2025  
 
-- Built a multi-threaded call center simulation system to model queue dynamics  
-- Developed automated validation pipelines processing 5,000+ daily data points  
-- Ensured ~99% data integrity in distributed execution environments  
+- Engineered a multi-threaded call center simulation system to model concurrent agent-customer interactions, enabling analysis of queue dynamics and staffing efficiency under variable load  
+- Built automated validation pipelines processing ~5K daily telemetry events, improving data reliability and ensuring ~99% integrity in distributed execution environments  
+- Optimized backend execution workflows for parallel processing, reducing latency in simulation runs and improving system scalability  
 
 ---
 
@@ -52,9 +52,11 @@ Jun 2025 – Jul 2025
 Fracht Kenya Ltd. | Nairobi, Kenya  
 Jul 2025 – Aug 2025  
 
-- Designed ETL workflow concepts for logistics data automation  
-- Identified inefficiencies in legacy systems and proposed optimization strategies  
-- Contributed to data-driven operational improvements  
+- Designed ETL workflow concepts for logistics data processing within the commercial department, improving clarity in data flow and reducing manual handling dependencies  
+- Analyzed legacy operational systems to identify inefficiencies, contributing to proposals that improved data processing consistency and reduced turnaround time  
+- Gained cross-functional exposure across warehouse operations, commercial workflows, and logistics coordination, enabling end-to-end understanding of supply chain data movement  
+- Participated in industry events and operational reviews, translating real-world process observations into structured data improvement opportunities  
+- Contributed to data-driven optimization strategies by identifying gaps between operational processes and data capture mechanisms  
 
 ---
 
@@ -62,9 +64,9 @@ Jul 2025 – Aug 2025
 E-Cell, IIT Bombay & JECRC | Jaipur, India  
 Aug 2023 – Dec 2024  
 
-- Led technical operations for events with 1,500+ participants  
-- Built internal tracking systems improving operational visibility by 30%  
-- Coordinated across technical teams and stakeholders  
+- Led technical operations for large-scale events (~1.5K participants), ensuring reliable execution of infrastructure and coordination systems  
+- Built internal tracking systems that improved operational visibility by ~30%, enabling better decision-making across teams  
+- Coordinated across multiple technical and organizational stakeholders to streamline execution workflows  
 
 ---
 
@@ -73,64 +75,58 @@ Aug 2023 – Dec 2024
 ### Full-Stack Ride-Hailing Platform  
 Tech: Next.js, Node.js, Express, WebSockets  
 
-- Built a real-time ride booking system with bidirectional communication  
-- Implemented WebSocket-based state synchronization between clients  
-- Designed backend APIs to handle concurrent ride requests  
+- Built a real-time ride-hailing system enabling bidirectional communication between clients, reducing latency in state synchronization  
+- Implemented WebSocket-based architecture for live location and status updates, improving system responsiveness under concurrent usage  
+- Designed scalable backend APIs to handle high-volume ride requests, ensuring consistency in transaction state management  
 
 ---
 
 ### Log Analyzer (AI-Powered)  
 Tech: Go, OpenAI API  
 
-- Developed a log parsing system supporting multiple formats  
-- Built an error pattern grouping engine for anomaly detection  
-- Integrated LLM-based insights for system-level diagnostics  
+- Developed a multi-format log processing system to aggregate and structure unstructured logs, improving observability across systems  
+- Built an error pattern grouping engine to identify recurring anomalies, reducing manual debugging effort  
+- Integrated LLM-based analysis to generate contextual insights, enhancing system-level diagnostics  
 
 ---
 
-### Logi-AI V1 — Data Pipeline System  
+### Logi-AI V1 — Call Center Data Pipeline  
 Tech: Python, Pandas, NumPy  
 
-- Built an ETL pipeline processing ~48K rows of operational data  
-- Designed validation and error-handling mechanisms  
-- Reduced downstream processing time by 35%  
+- Designed a structured data pipeline to process simulated call center operational data, enabling transformation from raw logs to analysis-ready datasets  
+- Implemented modular preprocessing workflows (cleaning, validation, feature structuring), improving reproducibility and consistency across runs  
+- Automated transformation steps to reduce manual data handling, enabling faster iteration for reporting and analysis workflows  
 
 ---
 
-### Statistical A/B Testing Framework  
+### Statistical A/B Testing Suite  
 Tech: Python, SciPy  
 
-- Built a hypothesis testing system for ~9.5K user samples  
-- Achieved 95% statistical confidence in decision-making  
-- Reduced experimentation cycles by ~2 weeks  
+- Built a hypothesis testing workflow to compare control and variant groups, enabling statistically grounded decision-making  
+- Applied statistical methods to evaluate ~9.5K sample data, improving confidence in experimental outcomes  
+- Structured analysis pipeline to reduce experimentation cycle time and improve result interpretation clarity  
 
 ---
 
 ### Call Center Simulation Engine  
 Tech: Python  
 
-- Designed a discrete-event simulation for queue optimization  
-- Modeled staffing efficiency under varying workloads  
-- Enabled data-driven operational decisions  
+- Developed a discrete-event simulation system to model call center queue dynamics, enabling evaluation of agent utilization under varying workloads  
+- Simulated real-world interaction scenarios to identify bottlenecks in service flow, supporting data-driven optimization decisions  
+- Structured simulation outputs for integration with downstream analysis pipelines  
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-### Languages  
-Python • JavaScript • Java • C++ • SQL  
+<p align="center">
 
-### Frontend  
-React.js • Next.js • Tailwind CSS  
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,sql" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" /><br>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,gcp" />
 
-### Backend  
-Node.js • Express.js • REST APIs • WebSockets  
-
-### Data and Machine Learning  
-Pandas • NumPy • Statistical Modeling • ETL Pipelines  
-
-### Tools and Infrastructure  
-Docker • Git • Linux • Google Cloud  
+</p>
 
 ---
 
@@ -145,10 +141,10 @@ Docker • Git • Linux • Google Cloud
 
 ## Current Focus
 
-- Strengthening Data Structures and Algorithms  
-- Building production-grade machine learning systems  
-- Scaling backend systems and APIs  
-- Developing high-impact engineering projects  
+- Data Structures and Algorithms  
+- Production-grade backend systems  
+- Scalable data pipelines  
+- High-impact engineering projects  
 
 ---
 
@@ -168,5 +164,5 @@ LinkedIn: https://www.linkedin.com/in/kartikaymg57/
 ---
 
 <p align="center">
-Focused on developing strong system design skills and building real-world engineering solutions.
+Focused on building scalable systems and data-driven engineering solutions.
 </p>

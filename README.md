@@ -16,13 +16,13 @@
 
 Computer Science (AI & ML) undergraduate focused on building scalable backend systems, real-time applications, and data-driven software.
 
-Work centered on:
-- Backend and distributed systems engineering  
-- Machine learning system design  
-- Data pipelines and ETL workflows  
-- Real-time architectures using WebSockets  
+My work sits at the intersection of:
+- Backend and distributed systems  
+- Machine learning workflows  
+- Data pipelines and automation  
+- Real-time systems using WebSockets  
 
-Approach driven by system design, performance optimization, and reliability.
+I focus on building systems that are reliable, structured, and easy to scale.
 
 ---
 
@@ -42,9 +42,9 @@ Approach driven by system design, performance optimization, and reliability.
 Samatrix Consulting Pvt. Ltd. | Remote  
 Jun 2025 – Jul 2025  
 
-- Engineered a multi-threaded call center simulation system to model concurrent agent-customer interactions, enabling analysis of queue dynamics and staffing efficiency under variable load  
-- Built automated validation pipelines processing ~5K daily telemetry events, improving data reliability and ensuring ~99% integrity in distributed execution environments  
-- Optimized backend execution workflows for parallel processing, reducing latency in simulation runs and improving system scalability  
+- Built a multi-threaded call center simulation system to model real-world agent-customer interactions, helping analyze queue behavior and staffing efficiency  
+- Developed automated validation pipelines handling ~5K daily data points, improving consistency and maintaining ~99% data integrity  
+- Improved execution flow for parallel workloads, making simulations faster and more scalable  
 
 ---
 
@@ -52,21 +52,38 @@ Jun 2025 – Jul 2025
 Fracht Kenya Ltd. | Nairobi, Kenya  
 Jul 2025 – Aug 2025  
 
-- Designed ETL workflow concepts for logistics data processing within the commercial department, improving clarity in data flow and reducing manual handling dependencies  
-- Analyzed legacy operational systems to identify inefficiencies, contributing to proposals that improved data processing consistency and reduced turnaround time  
-- Gained cross-functional exposure across warehouse operations, commercial workflows, and logistics coordination, enabling end-to-end understanding of supply chain data movement  
-- Participated in industry events and operational reviews, translating real-world process observations into structured data improvement opportunities  
-- Contributed to data-driven optimization strategies by identifying gaps between operational processes and data capture mechanisms  
+- Worked on ETL workflow concepts to improve how logistics data is collected and processed within the commercial team  
+- Analyzed existing systems to identify inefficiencies, contributing to improvements in data flow and processing time  
+- Gained hands-on exposure across warehouse operations, commercial processes, and logistics coordination, building a clear understanding of end-to-end systems  
+- Attended industry events and operational reviews, connecting real-world processes with data-driven improvement opportunities  
+- Supported data-backed decision-making by identifying gaps between operations and data capture  
 
 ---
 
-### Technical Operations Lead  
-E-Cell, IIT Bombay & JECRC | Jaipur, India  
-Aug 2023 – Dec 2024  
+## Leadership & Activities
 
-- Led technical operations for large-scale events (~1.5K participants), ensuring reliable execution of infrastructure and coordination systems  
-- Built internal tracking systems that improved operational visibility by ~30%, enabling better decision-making across teams  
-- Coordinated across multiple technical and organizational stakeholders to streamline execution workflows  
+### Campus Ambassador  
+E-Cell, IIT Bombay  
+
+- Represented campus initiatives and contributed to outreach for entrepreneurship programs  
+- Collaborated with student and organizational teams during national-level events  
+
+---
+
+### National Entrepreneurship Challenge (NEC) — Contingent Member  
+IIT Bombay | 2024  
+
+- Competed as part of a team in a national-level entrepreneurship competition  
+- Contributed to strategy, execution, and problem-solving during multi-stage evaluations  
+
+---
+
+### Operations & Student Course Coordinator  
+JECRC Incubation Centre  
+
+- Coordinated operations for the Entrepreneurship Development Program (EDP)  
+- Managed student participation and program execution workflows  
+- Supported structured delivery of entrepreneurship-focused sessions  
 
 ---
 
@@ -75,45 +92,45 @@ Aug 2023 – Dec 2024
 ### Full-Stack Ride-Hailing Platform  
 Tech: Next.js, Node.js, Express, WebSockets  
 
-- Built a real-time ride-hailing system enabling bidirectional communication between clients, reducing latency in state synchronization  
-- Implemented WebSocket-based architecture for live location and status updates, improving system responsiveness under concurrent usage  
-- Designed scalable backend APIs to handle high-volume ride requests, ensuring consistency in transaction state management  
+- Built a real-time ride booking platform enabling live communication between users  
+- Used WebSockets to keep ride status and location updates in sync  
+- Designed backend APIs to handle multiple concurrent ride requests reliably  
 
 ---
 
 ### Log Analyzer (AI-Powered)  
 Tech: Go, OpenAI API  
 
-- Developed a multi-format log processing system to aggregate and structure unstructured logs, improving observability across systems  
-- Built an error pattern grouping engine to identify recurring anomalies, reducing manual debugging effort  
-- Integrated LLM-based analysis to generate contextual insights, enhancing system-level diagnostics  
+- Built a system to process and organize logs from different sources  
+- Identified recurring error patterns to simplify debugging  
+- Integrated AI-based insights to make logs easier to interpret  
 
 ---
 
 ### Logi-AI V1 — Call Center Data Pipeline  
 Tech: Python, Pandas, NumPy  
 
-- Designed a structured data pipeline to process simulated call center operational data, enabling transformation from raw logs to analysis-ready datasets  
-- Implemented modular preprocessing workflows (cleaning, validation, feature structuring), improving reproducibility and consistency across runs  
-- Automated transformation steps to reduce manual data handling, enabling faster iteration for reporting and analysis workflows  
+- Built a data pipeline to process simulated call center data and convert it into structured outputs  
+- Applied cleaning, transformation, and feature structuring to make data usable for analysis  
+- Reduced manual effort by automating repetitive preprocessing steps  
 
 ---
 
 ### Statistical A/B Testing Suite  
 Tech: Python, SciPy  
 
-- Built a hypothesis testing workflow to compare control and variant groups, enabling statistically grounded decision-making  
-- Applied statistical methods to evaluate ~9.5K sample data, improving confidence in experimental outcomes  
-- Structured analysis pipeline to reduce experimentation cycle time and improve result interpretation clarity  
+- Analyzed experimental data to compare performance between different variants  
+- Applied statistical tests to determine if observed differences were meaningful  
+- Structured results to support clear, data-driven decisions  
 
 ---
 
 ### Call Center Simulation Engine  
 Tech: Python  
 
-- Developed a discrete-event simulation system to model call center queue dynamics, enabling evaluation of agent utilization under varying workloads  
-- Simulated real-world interaction scenarios to identify bottlenecks in service flow, supporting data-driven optimization decisions  
-- Structured simulation outputs for integration with downstream analysis pipelines  
+- Built a simulation to model call center queues and workload distribution  
+- Tested how different conditions impact agent performance and response times  
+- Generated insights that can support operational optimization  
 
 ---
 
@@ -142,9 +159,9 @@ Tech: Python
 ## Current Focus
 
 - Data Structures and Algorithms  
-- Production-grade backend systems  
-- Scalable data pipelines  
-- High-impact engineering projects  
+- Backend system design  
+- Data pipeline development  
+- Building practical, real-world projects  
 
 ---
 
@@ -164,5 +181,5 @@ LinkedIn: https://www.linkedin.com/in/kartikaymg57/
 ---
 
 <p align="center">
-Focused on building scalable systems and data-driven engineering solutions.
+Focused on building practical, scalable, and data-driven engineering solutions.
 </p>

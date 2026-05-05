@@ -90,14 +90,6 @@ I focus on building systems that are reliable, structured, and easy to scale.
 
 ---
 
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikaySr&show_icons=true&hide_border=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikaySr&hide_border=true&theme=radical" height="150"/>
-</p>
-
----
 
 ## Philosophy
 

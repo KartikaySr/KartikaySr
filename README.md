@@ -1,7 +1,7 @@
 <h1 align="center">Kartikay Srivastava</h1>
 
 <p align="center">
-<b>AI/ML Engineer • Backend Systems • Data Infrastructure</b>
+<b>Backend Systems • Data Infrastructure • Applied AI</b>
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@ I focus on building systems that are reliable, structured, and easy to scale.
 
 ## Core Areas
 
-- Machine Learning Systems  
 - Backend and Distributed Systems  
-- Data Engineering and ETL Pipelines  
+- Data Engineering and Processing Pipelines  
+- Machine Learning Systems & Applied AI
 - Real-Time Systems (APIs, WebSockets)  
 - Simulation and Optimization  
 
@@ -38,111 +38,54 @@ I focus on building systems that are reliable, structured, and easy to scale.
 
 ## Experience
 
-### Machine Learning Engineer Intern  
-Samatrix Consulting Pvt. Ltd. | Remote  
-Jun 2025 – Jul 2025  
-
-- Built a multi-threaded call center simulation system to model real-world agent-customer interactions, helping analyze queue behavior and staffing efficiency  
-- Developed automated validation pipelines handling ~5K daily data points, improving consistency and maintaining ~99% data integrity  
-- Improved execution flow for parallel workloads, making simulations faster and more scalable  
-
----
+### Machine Learning & Data Intern  
+**Samatrix Consulting Pvt. Ltd. | Remote** *Jun 2025 – Jul 2025* - Built a Python-based call center simulation system to model real-world agent-customer interactions, helping analyze queue behavior and staffing efficiency.  
+- Developed automated validation pipelines handling ~5K daily data points, improving consistency and maintaining ~99% data integrity.  
+- Improved execution flow and backend logic, making simulations faster and more scalable.  
 
 ### Commercial Apprentice (Operations/Data)  
-Fracht Kenya Ltd. | Nairobi, Kenya  
-Jul 2025 – Aug 2025  
-
-- Worked on ETL workflow concepts to improve how logistics data is collected and processed within the commercial team  
-- Analyzed existing systems to identify inefficiencies, contributing to improvements in data flow and processing time  
-- Gained hands-on exposure across warehouse operations, commercial processes, and logistics coordination, building a clear understanding of end-to-end systems  
-- Attended industry events and operational reviews, connecting real-world processes with data-driven improvement opportunities  
-- Supported data-backed decision-making by identifying gaps between operations and data capture  
+**Fracht Kenya Ltd. | Nairobi, Kenya** *Jul 2025 – Aug 2025* - Reviewed and optimized data workflows to improve how logistics data is collected and processed within the commercial team.  
+- Analyzed existing systems to identify inefficiencies, contributing to improvements in data flow and processing time.  
+- Supported data-backed decision-making by identifying gaps between warehouse operations and commercial data capture.  
 
 ---
 
 ## Leadership & Activities
 
-### Campus Ambassador  
-E-Cell, IIT Bombay  
-
-- Represented campus initiatives and contributed to outreach for entrepreneurship programs  
-- Collaborated with student and organizational teams during national-level events  
-
----
-
-### National Entrepreneurship Challenge (NEC) — Contingent Member  
-IIT Bombay | 2024  
-
-- Competed as part of a team in a national-level entrepreneurship competition  
-- Contributed to strategy, execution, and problem-solving during multi-stage evaluations  
-
----
-
-### Operations & Student Course Coordinator  
-JECRC Incubation Centre  
-
-- Coordinated operations for the Entrepreneurship Development Program (EDP)  
-- Managed student participation and program execution workflows  
-- Supported structured delivery of entrepreneurship-focused sessions  
+- **Campus Ambassador | E-Cell, IIT Bombay:** Represented campus initiatives and contributed to outreach for national entrepreneurship programs.
+- **Contingent Member | National Entrepreneurship Challenge (NEC), IIT Bombay:** Competed and contributed to strategy and problem-solving, securing a winning position in 2024.
+- **Operations Lead | JECRC Incubation Centre:** Coordinated operations for the Entrepreneurship Development Program, managing student workflows and structured session delivery.
 
 ---
 
 ## Selected Projects
 
-### Full-Stack Ride-Hailing Platform  
-Tech: Next.js, Node.js, Express, WebSockets  
+### [Full-Stack Ride-Hailing Platform](https://github.com/KartikaySr/Full-Stack-Ride-Booking-Application)
+*Tech: Next.js, Node.js, Express, WebSockets* - Built a real-time ride booking platform enabling live communication between users.  
+- Used WebSockets to keep ride status and location updates in sync.  
+- Designed backend APIs to handle multiple concurrent ride requests reliably.  
 
-- Built a real-time ride booking platform enabling live communication between users  
-- Used WebSockets to keep ride status and location updates in sync  
-- Designed backend APIs to handle multiple concurrent ride requests reliably  
+### [Log Analyzer (AI-Powered)](#)  
+*Tech: Go, OpenAI API* - Built a system to process and organize logs from different sources to simplify debugging.  
+- Integrated AI-based insights to identify recurring error patterns and make logs easier to interpret.  
 
----
+### [Logi-AI V1 — Call Center Data Pipeline](https://github.com/KartikaySr/Call-Centre-Simulation-Logi-AI-V1)  
+*Tech: Python, Pandas, NumPy* - Built a data pipeline to process simulated call center data and convert it into structured outputs.  
+- Applied cleaning, transformation, and feature structuring to make data usable for analysis.  
 
-### Log Analyzer (AI-Powered)  
-Tech: Go, OpenAI API  
-
-- Built a system to process and organize logs from different sources  
-- Identified recurring error patterns to simplify debugging  
-- Integrated AI-based insights to make logs easier to interpret  
-
----
-
-### Logi-AI V1 — Call Center Data Pipeline  
-Tech: Python, Pandas, NumPy  
-
-- Built a data pipeline to process simulated call center data and convert it into structured outputs  
-- Applied cleaning, transformation, and feature structuring to make data usable for analysis  
-- Reduced manual effort by automating repetitive preprocessing steps  
-
----
-
-### Statistical A/B Testing Suite  
-Tech: Python, SciPy  
-
-- Analyzed experimental data to compare performance between different variants  
-- Applied statistical tests to determine if observed differences were meaningful  
-- Structured results to support clear, data-driven decisions  
-
----
-
-### Call Center Simulation Engine  
-Tech: Python  
-
-- Built a simulation to model call center queues and workload distribution  
-- Tested how different conditions impact agent performance and response times  
-- Generated insights that can support operational optimization  
+### [Statistical A/B Testing Suite](https://github.com/KartikaySr/Statistical-A-B-Testing-Suite)  
+*Tech: Python, SciPy* - Analyzed experimental data to compare performance between different variants.  
+- Applied statistical tests (T-tests/Z-tests) to determine if observed differences were meaningful.  
 
 ---
 
 ## Technical Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,js,java,cpp,sql" /><br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express" /><br>
 <img src="https://skillicons.dev/icons?i=docker,git,linux,gcp" />
-
 </p>
 
 ---
@@ -150,18 +93,9 @@ Tech: Python
 ## GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikaySr&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikaySr&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikaySr&show_icons=true&hide_border=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikaySr&hide_border=true&theme=radical" height="150"/>
 </p>
-
----
-
-## Current Focus
-
-- Data Structures and Algorithms  
-- Backend system design  
-- Data pipeline development  
-- Building practical, real-world projects  
 
 ---
 
@@ -170,13 +104,6 @@ Tech: Python
 Build systems that scale.  
 Understand systems that fail.  
 Optimize systems that matter.  
-
----
-
-## Contact
-
-Email: kartikaymg57@gmail.com  
-LinkedIn: https://www.linkedin.com/in/kartikaymg57/  
 
 ---
 

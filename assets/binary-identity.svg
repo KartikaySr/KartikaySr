@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Kartikay Srivastava — Backend Systems, Data Infrastructure and Applied AI</title>
+  <desc id="desc">An Omnitrix-inspired black, green, silver and gold interface for Kartikay Srivastava.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="48%" r="75%"><stop stop-color="#10251d"/><stop offset=".52" stop-color="#050807"/><stop offset="1" stop-color="#010202"/></radialGradient>
+    <radialGradient id="core"><stop stop-color="#d9ff8a"/><stop offset=".35" stop-color="#72e63f"/><stop offset="1" stop-color="#159447"/></radialGradient>
+    <linearGradient id="silver" x2="1" y2="1"><stop stop-color="#f1f5f1"/><stop offset=".38" stop-color="#87938f"/><stop offset=".65" stop-color="#f8fff9"/><stop offset="1" stop-color="#4f5c58"/></linearGradient>
+    <linearGradient id="gold"><stop stop-color="#fff0a4"/><stop offset=".45" stop-color="#d2a83d"/><stop offset="1" stop-color="#80651d"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="bits" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M2 2h4v4H2zM14 12h6v6h-6z" fill="#67e85b" opacity=".12"/></pattern>
+  </defs>
+  <rect width="1200" height="430" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="18" fill="url(#bits)"/>
+  <path d="M0 365h1200" stroke="#d2a83d" opacity=".35"/>
+  <g transform="translate(720 215)" filter="url(#glow)">
+    <circle r="150" fill="none" stroke="#1e9b50" stroke-width="2" opacity=".5"/>
+    <circle r="128" fill="none" stroke="url(#silver)" stroke-width="17"/>
+    <circle r="103" fill="none" stroke="#111a17" stroke-width="13"/>
+    <path d="M0-128v-20M91-91l14-14M128 0h20M91 91l14 14M0 128v20M-91 91l-14 14M-128 0h-20M-91-91l-14-14" stroke="url(#gold)" stroke-width="6" stroke-linecap="round"/>
+    <circle r="83" fill="#07120c" stroke="#73e64e" stroke-width="4"/>
+    <path d="M0-59 51-29v58L0 59l-51-30v-58z" fill="url(#core)" stroke="#d9ff8a" stroke-width="3"/>
+    <path d="M0-35 30-17v34L0 35l-30-18v-34z" fill="#07130b" opacity=".85"/>
+  </g>
+  <g fill="#eff8f0" font-family="Arial,Helvetica,sans-serif">
+    <text x="75" y="112" font-size="16" letter-spacing="5" fill="#d2a83d">SYSTEM PROFILE / 001</text>
+    <text x="70" y="190" font-size="58" font-weight="700">KARTIKAY</text>
+    <text x="73" y="245" font-size="31" letter-spacing="2" fill="#8df06b">SRIVASTAVA</text>
+    <text x="75" y="304" font-size="18" fill="#b5c1b9">BACKEND SYSTEMS  ·  DATA INFRASTRUCTURE  ·  APPLIED AI</text>
+    <text x="75" y="354" font-size="15" fill="#93a49a">JECRC UNIVERSITY / CSE (AI &amp; ML) / CLASS OF 2027</text>
+  </g>
+</svg>

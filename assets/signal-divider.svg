@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36" role="img" aria-label="Green signal divider">
+  <defs><linearGradient id="line"><stop stop-color="#0b5d32" stop-opacity="0"/><stop offset=".45" stop-color="#72e63f"/><stop offset=".55" stop-color="#d2a83d"/><stop offset="1" stop-color="#0b5d32" stop-opacity="0"/></linearGradient></defs>
+  <path d="M0 18h510l18-10 18 20 18-10h636" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="546" cy="18" r="5" fill="#72e63f"/><circle cx="546" cy="18" r="10" fill="none" stroke="#d2a83d" opacity=".55"/>
+</svg>
